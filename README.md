@@ -22,5 +22,7 @@ If you use this code, please cite the paper:
       primaryClass={quant-ph}
 }`
 
+### License
+(Apache License 2.0)[https://github.com/anneriet/decomposition_algorithm/blob/main/LICENSE]
 
 
